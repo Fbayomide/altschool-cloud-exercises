@@ -1,5 +1,6 @@
 # Excercise 2  
 
+
 I configured the **"private_network"** to **"dhcp"** by editing the **vagrantfile** manually. Below is the outcome.    
 
  ![Vagrantfile - Notepad 8_23_2022 4_23_29 AM](https://user-images.githubusercontent.com/67663655/186158896-991553c3-9180-4470-802d-17b273d34104.png)
