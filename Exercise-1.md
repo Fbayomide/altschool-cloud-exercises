@@ -1,4 +1,4 @@
-# Excercise 2  
+# Excercise 1  
 
 
 I configured the **"private_network"** to **"dhcp"** by editing the **vagrantfile** manually. Below is the outcome.    
