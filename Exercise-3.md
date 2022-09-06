@@ -7,7 +7,7 @@
 
 **/etc/sudoers**   
 
-![nano-etc-sudoers](https://user-images.githubusercontent.com/67663655/188467959-40b44495-f852-485e-b5a6-d77e828657bc.png)
+![add a group to sudoers](https://user-images.githubusercontent.com/67663655/188656555-abe8b1f2-8db6-4a6e-8d41-d16d1805ca93.png)
 
   
 **/etc/passwd**   
