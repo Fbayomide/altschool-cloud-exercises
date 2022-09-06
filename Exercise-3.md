@@ -2,7 +2,7 @@
 
 **/etc/group**  
 
-![users created and their assigned groups](https://user-images.githubusercontent.com/67663655/188466702-a3659686-8eaa-4c1b-8061-fc94a1f6a12e.png)  
+!![task - etc - groups](https://user-images.githubusercontent.com/67663655/188666224-31223d26-f918-41df-9fd5-eb3bb5a3ec5f.png) 
 
 
 **/etc/sudoers**   
@@ -12,4 +12,4 @@
   
 **/etc/passwd**   
 
-![listing users](https://user-images.githubusercontent.com/67663655/188467904-44d03ec9-e7bb-47fb-b76a-05b9173f83bf.png)
+![task - etc-passwd](https://user-images.githubusercontent.com/67663655/188666199-03a965c3-a27f-4fa4-b92f-21a739b25045.png)
